@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import './contact.css';
+import './experience.css';
 
 function App() {
-  return <div className="contact"></div>;
+  return <div className="experience"></div>;
 }
 
 export default App;
