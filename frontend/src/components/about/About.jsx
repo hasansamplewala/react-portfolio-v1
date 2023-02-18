@@ -1,8 +1,10 @@
 import { useState } from 'react';
-import './about.css';
+import './about.css'
 
-function App() {
-  return <div className="about"></div>;
+function About() {
+  return (
+    <div className="About">About</div>
+  )
 }
 
-export default App;
+export default About

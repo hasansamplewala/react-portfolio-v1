@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import './experience.css';
 
-function App() {
-  return <div className="experience"></div>;
+function Experience() {
+  return (
+    <div className='Experience'>Experience</div>
+  )
 }
 
-export default App;
+export default Experience
